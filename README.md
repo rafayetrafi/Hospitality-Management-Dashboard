@@ -1,6 +1,10 @@
 # Hospitality-Management-Dashboard
 A Hospitality Management dashboard using Power BI
 
+The dashboard provides an overview of key performance indicators (KPIs) that are relevant to the client's business, such as occupancy rates, revenue per available room, and customer satisfaction scores.
+
+The dashboard is designed to provide a quick and easy way for clients to access the information they need to make informed decisions about their business. It allows clients to see trends and patterns in their data over time, helping them to identify areas of improvement or potential problems. The dashboard can be customized to meet the specific needs of each client, with different data visualizations and reporting options available.
+
 ![Hospitality Management Dashboard v1_page-0001](https://user-images.githubusercontent.com/15082614/234138378-2a602f42-1f9a-42a9-b49e-e03f91f4e7cf.jpg)
 
 #Other Insights
